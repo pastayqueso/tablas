@@ -1,4 +1,4 @@
-
+.
 <h1> tablas</h1>
 <table border=1>
 <tr>
