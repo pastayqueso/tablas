@@ -114,7 +114,7 @@
 <h3> tababla con titulo en filas</h3>
 <table border=1 bordercolor="red">
 <tr>
-<td rowspan=4> <center> <h3> frutas </center> </h3></td>
+<td rowspan=4> <h3> frutas </h3></td>
 <th>Fresa</th>
 <th>Uva</th>
 <th>Platanos</th>
