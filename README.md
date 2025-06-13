@@ -84,7 +84,7 @@
 </tr>
 </table>
 
-<h3> tababla con titulo en columnas</h3>
+<h3> tabla con titulo en columnas</h3>
 <table border=1 bordercolor="red">
 <tr>
 <td colspan=3> <center> <h3> frutas </center> </h3></td>
@@ -111,7 +111,7 @@
 </tr>
 </table>
 
-<h3> tababla con titulo en filas</h3>
+<h3> tabla con titulo en filas</h3>
 <table border=1 bordercolor="red">
 <tr>
 <td rowspan=4> <h3> frutas </h3></td>
