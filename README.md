@@ -1,4 +1,4 @@
-.
+
 <h1> tablas</h1>
 <table border=1>
 <tr>
@@ -60,7 +60,7 @@
 </tr>
 </table>
 
-<h3> tbabla con encabezados </h3>
+<h3> tabla con encabezados </h3>
 <table border=1 bordercolor="red">
 <tr>
 <th>Fresa</th>
